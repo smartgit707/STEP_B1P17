@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        Problem4_PlagiarismDetector.solve();
+        Problem5_AnalyticsDashboard.solve();
 
     }
 }
