@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        Problem6_RateLimiter.solve();
+        Problem7_Autocomplete.solve();
 
     }
 }
