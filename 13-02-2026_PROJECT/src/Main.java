@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        Problem3_DNSCache.solve();
+        Problem4_PlagiarismDetector.solve();
 
     }
 }
